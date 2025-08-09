@@ -84,7 +84,7 @@
 |69|尅|![alt text](fig/temp1624_split_32_002.png "尅")|5C05||
 |70|疱|![alt text](fig/temp1624_split_33_001.png "疱")|75B1||
 |71|聇|![alt text](fig/temp1624_split_33_002.png "聇")|8047||Big5重複收錄字
-|72|麻|![alt text](fig/temp1624_split_34_001.png "麻")|9EBB||無法與16Px字做出林𣏟區別
+|72|麻|![alt text](fig/temp1624_split_34_001.png "麻")|9EBB||為了與16Px字做出林𣏟區別
 |73|啲|![alt text](fig/temp1624_split_34_002.png "啲")|5572||
 |74|峯|![alt text](fig/temp1624_split_35_001.png "峯")|5CEF||
 |75|啫|![alt text](fig/temp1624_split_35_002.png "啫")|556B||
@@ -176,7 +176,7 @@
 |161|㛇|![alt text](fig/temp1624_split_78_002.png "㛇")|36C7||
 |162|慤|![alt text](fig/temp1624_split_79_001.png "慤")|6164||
 |163|呍|![alt text](fig/temp1624_split_79_002.png "呍")|544D||
-|164|嘛|![alt text](fig/temp1624_split_80_001.png "嘛")|561B||無法與16Px字做出林𣏟區別
+|164|嘛|![alt text](fig/temp1624_split_80_001.png "嘛")|561B||為了與16Px字做出林𣏟區別
 |165|嚤|![alt text](fig/temp1624_split_80_002.png "嚤")|56A4||
 |166|嚟|![alt text](fig/temp1624_split_81_001.png "嚟")|569F||
 |167|擓|![alt text](fig/temp1624_split_81_002.png "擓")|64D3||
