@@ -22,7 +22,7 @@
 |7|氹|![alt text](fig/temp1624_split_1_002.png "氹")![alt text](a/1_007.png "邨")|6C39||
 |8|乪|![alt text](fig/temp1624_split_2_001.png "乪")![alt text](a/1_008.png "邨")|4E6A||
 |9|冲|![alt text](fig/temp1624_split_2_002.png "冲")![alt text](a/1_009.png "邨")|51B2||
-|10|㘭|![alt text](fig/temp1624_split_3_001.png "㘭")![alt text](a/1_010.png "邨")|362D||
+|10|㘭|![alt text](fig/temp1624_split_3_001.png "㘭")![alt text](a/1_010.png "邨")|362D||向量字為“坳”（Big5重複收錄字）
 |11|陁|![alt text](fig/temp1624_split_3_002.png "陁")![alt text](a/1_011.png "邨")|9641||
 |12|担|![alt text](fig/temp1624_split_4_001.png "担")![alt text](a/1_012.png "邨")|62C5||
 |13|勅|![alt text](fig/temp1624_split_4_002.png "勅")![alt text](a/1_013.png "邨")|52C5||
@@ -47,12 +47,12 @@
 |32|着|![alt text](fig/temp1624_split_14_001.png "着")![alt text](a/1_032.png "邨")|7740||
 |33|琼|![alt text](fig/temp1624_split_14_002.png "琼")![alt text](a/1_033.png "邨")|743C||
 |34|䓪|![alt text](fig/temp1624_split_15_001.png "䓪")![alt text](a/1_034.png "邨")|44EA||
-|35|揾|![alt text](fig/temp1624_split_15_002.png "揾")![alt text](a/1_035.png "邨")|63FE||
+|35|揾|![alt text](fig/temp1624_split_15_002.png "揾")![alt text](a/1_035.png "邨")|63FE||向量字為“搵”（Big5重複收錄字）
 |36|煊|![alt text](fig/temp1624_split_16_001.png "煊")![alt text](a/1_036.png "邨")|714A||
 |37|滙|![alt text](fig/temp1624_split_16_002.png "滙")![alt text](a/1_037.png "邨")|6ED9||
-|38|叠|![alt text](fig/temp1624_split_17_001.png "叠")![alt text](a/1_038.png "邨")|53E0||
+|38|叠|![alt text](fig/temp1624_split_17_001.png "叠")![alt text](a/1_038.png "邨")|53E0||向量字為⿱叒宜
 |39|献|![alt text](fig/temp1624_split_17_002.png "献")![alt text](a/1_039.png "邨")|732E||
-|40|裏|![alt text](fig/temp1624_split_18_001.png "裏")![alt text](a/1_040.png "邨")|88CF||Big5倚天補充7字之一
+|40|裏|![alt text](fig/temp1624_split_18_001.png "裏")![alt text](a/1_040.png "邨")|88CF||Big5倚天補充7字之一，向量字為⿴衣⿻甲一
 |41|碍|![alt text](fig/temp1624_split_18_002.png "碍")![alt text](a/1_041.png "邨")|788D||
 |42|羣|![alt text](fig/temp1624_split_19_001.png "羣")![alt text](a/1_042.png "邨")|7FA3||
 |43|綫|![alt text](fig/temp1624_split_19_002.png "綫")![alt text](a/1_043.png "邨")|7DAB||
@@ -84,7 +84,7 @@
 |69|尅|![alt text](fig/temp1624_split_32_002.png "尅")![alt text](a/1_069.png "邨")|5C05||
 |70|疱|![alt text](fig/temp1624_split_33_001.png "疱")![alt text](a/1_070.png "邨")|75B1||
 |71|聇|![alt text](fig/temp1624_split_33_002.png "聇")![alt text](a/1_071.png "邨")|8047||Big5重複收錄字
-|72|麻|![alt text](fig/temp1624_split_34_001.png "麻")![alt text](a/1_072.png "邨")|9EBB||為了與16Px字做出林𣏟區別
+|72|麻|![alt text](fig/temp1624_split_34_001.png "麻")![alt text](a/1_072.png "邨")|9EBB||為了與16Px及向量字做出林𣏟區別
 |73|啲|![alt text](fig/temp1624_split_34_002.png "啲")![alt text](a/1_073.png "邨")|5572||
 |74|峯|![alt text](fig/temp1624_split_35_001.png "峯")![alt text](a/1_074.png "邨")|5CEF||
 |75|啫|![alt text](fig/temp1624_split_35_002.png "啫")![alt text](a/1_075.png "邨")|556B||
@@ -125,7 +125,7 @@
 |110|牕|![alt text](fig/temp1624_split_53_001.png "牕")![alt text](a/1_110.png "邨")|7255||
 |111|嘞|![alt text](fig/temp1624_split_53_002.png "嘞")![alt text](a/1_111.png "邨")|561E||
 |112|癎|![alt text](fig/temp1624_split_54_001.png "癎")![alt text](a/1_112.png "邨")|764E||
-|113||![alt text](fig/temp1624_split_54_002.png "0")![alt text](a/1_113.png "邨")||⿰衤⿳里儿攵|疑似錯誤字收錄(禝
+|113||![alt text](fig/temp1624_split_54_002.png "0")![alt text](a/1_113.png "邨")||⿰衤⿳田土⿱儿夂|疑似錯誤字收錄(禝
 |114|嚒|![alt text](fig/temp1624_split_55_001.png "嚒")![alt text](a/1_114.png "邨")|5692||
 |115|輭|![alt text](fig/temp1624_split_55_002.png "輭")![alt text](a/1_115.png "邨")|8F2D||
 |116|銹|![alt text](fig/temp1624_split_56_001.png "銹")![alt text](a/1_116.png "邨")|92B9||Big5倚天補充7字之一
@@ -159,7 +159,7 @@
 |144|朥|![alt text](fig/temp1624_split_70_001.png "朥")![alt text](a/2_004.png "邨")|6725||
 |145|樫|![alt text](fig/temp1624_split_70_002.png "樫")![alt text](a/2_005.png "邨")|6A2B||
 |146|咗|![alt text](fig/temp1624_split_71_001.png "咗")![alt text](a/2_006.png "邨")|5497||
-|147|脗|![alt text](fig/temp1624_split_71_002.png "脗")![alt text](a/2_007.png "邨")|8117||
+|147|脗|![alt text](fig/temp1624_split_71_002.png "脗")![alt text](a/2_007.png "邨")|8117||向量字為⿰月忽
 |148|瘻|![alt text](fig/temp1624_split_72_001.png "瘻")![alt text](a/2_008.png "邨")|763B||
 |149|絝|![alt text](fig/temp1624_split_72_002.png "絝")![alt text](a/2_009.png "邨")|7D5D||
 |150|遡|![alt text](fig/temp1624_split_73_001.png "遡")![alt text](a/2_010.png "邨")|9061||
@@ -170,13 +170,13 @@
 |155|粦|![alt text](fig/temp1624_split_75_002.png "粦")![alt text](a/2_015.png "邨")|7CA6||
 |156|晋|![alt text](fig/temp1624_split_76_001.png "晋")![alt text](a/2_016.png "邨")|664B||
 |157|笹|![alt text](fig/temp1624_split_76_002.png "笹")![alt text](a/2_017.png "邨")|7B39||
-|158||![alt text](fig/temp1624_split_77_001.png "0")![alt text](a/2_018.png "邨")||⿳宀必𭁠|疑似錯誤字收錄(接近寗
+|158|寗|![alt text](fig/temp1624_split_77_001.png "0")![alt text](a/2_018.png "邨")|5BD7|⿳宀必𭁠|疑似錯誤字收錄(接近寗），點陣字錯誤繪製
 |159|曁|![alt text](fig/temp1624_split_77_002.png "曁")![alt text](a/2_019.png "邨")|66C1||
 |160|奵|![alt text](fig/temp1624_split_78_001.png "奵")![alt text](a/2_020.png "邨")|5975||
 |161|㛇|![alt text](fig/temp1624_split_78_002.png "㛇")![alt text](a/2_021.png "邨")|36C7||
 |162|慤|![alt text](fig/temp1624_split_79_001.png "慤")![alt text](a/2_022.png "邨")|6164||
 |163|呍|![alt text](fig/temp1624_split_79_002.png "呍")![alt text](a/2_023.png "邨")|544D||
-|164|嘛|![alt text](fig/temp1624_split_80_001.png "嘛")![alt text](a/2_024.png "邨")|561B||為了與16Px字做出林𣏟區別
+|164|嘛|![alt text](fig/temp1624_split_80_001.png "嘛")![alt text](a/2_024.png "邨")|561B||為了與16Px及向量字做出林𣏟區別
 |165|嚤|![alt text](fig/temp1624_split_80_002.png "嚤")![alt text](a/2_025.png "邨")|56A4||
 |166|嚟|![alt text](fig/temp1624_split_81_001.png "嚟")![alt text](a/2_026.png "邨")|569F||
 |167|擓|![alt text](fig/temp1624_split_81_002.png "擓")![alt text](a/2_027.png "邨")|64D3||
@@ -198,19 +198,19 @@
 |183|辻|![alt text](fig/temp1624_split_89_002.png "辻")![alt text](a/2_043.png "邨")|8FBB||
 |184|胆|![alt text](fig/temp1624_split_90_001.png "胆")![alt text](a/2_044.png "邨")|80C6||
 |185|乸|![alt text](fig/temp1624_split_90_002.png "乸")![alt text](a/2_045.png "邨")|4E78||
-|186|厨|![alt text](fig/temp1624_split_91_001.png "厨")![alt text](a/2_046.png "邨")|53A8||
+|186|厨|![alt text](fig/temp1624_split_91_001.png "厨")![alt text](a/2_046.png "邨")|53A8||向量字為“㕑”
 |187|欵|![alt text](fig/temp1624_split_91_002.png "欵")![alt text](a/2_047.png "邨")|6B35||
 |188|𥕛|![alt text](fig/temp1624_split_92_001.png "𥕛")![alt text](a/2_048.png "邨")|2555B||
 |189|𩶘|![alt text](fig/temp1624_split_92_002.png "𩶘")![alt text](a/2_049.png "邨")|29D98||
 |190|靝|![alt text](fig/temp1624_split_93_001.png "靝")![alt text](a/2_050.png "邨")|975D||
 |191|厠|![alt text](fig/temp1624_split_93_002.png "厠")![alt text](a/2_051.png "邨")|53A0||
 |192|猄|![alt text](fig/temp1624_split_94_001.png "猄")![alt text](a/2_052.png "邨")|7304||
-|193|携|![alt text](fig/temp1624_split_94_002.png "携")![alt text](a/2_053.png "邨")|643A||
+|193|携|![alt text](fig/temp1624_split_94_002.png "携")![alt text](a/2_053.png "邨")|643A||向量字為“㩗”
 |194|衞|![alt text](fig/temp1624_split_95_001.png "衞")![alt text](a/2_054.png "邨")|885E||
 |195|瞓|![alt text](fig/temp1624_split_95_002.png "瞓")![alt text](a/2_055.png "邨")|7793||
 |196|𧝁|![alt text](fig/temp1624_split_96_001.png "𧝁")![alt text](a/2_056.png "邨")|27741||
 |197|耻|![alt text](fig/temp1624_split_96_002.png "耻")![alt text](a/2_057.png "邨")|803B||
-|198|𦉘|![alt text](fig/temp1624_split_97_001.png "𦉘")![alt text](a/2_058.png "邨")|26258||
+|198|𦉘|![alt text](fig/temp1624_split_97_001.png "𦉘")![alt text](a/2_058.png "邨")|26258||向量字為“罉”
 |199|𧩙|![alt text](fig/temp1624_split_97_002.png "𧩙")![alt text](a/2_059.png "邨")|27A59||
 |200|劏|![alt text](fig/temp1624_split_98_001.png "劏")![alt text](a/2_060.png "邨")|528F||
 |201||![alt text](fig/temp1624_split_98_002.png "0")![alt text](a/2_061.png "邨")|||輸入法用(母外框
@@ -228,6 +228,7 @@
 Luke036
 
 2025年8月10日 整理
-2025年9月1日 新增向量字圖
 
-作為點陣字體檔案館之資料
+2025年9月1日 新增向量字圖、改正編碼
+
+作為點陣字體歷史檔案館之資料
