@@ -32,7 +32,7 @@
 |17|恒|![alt text](fig/temp1624_split_6_002.png "恒")![alt text](a/1_017.png "邨")|6052||Big5倚天補充7字之一
 |18|叁|![alt text](fig/temp1624_split_7_001.png "叁")![alt text](a/1_018.png "邨")|53C1||
 |19|祢|![alt text](fig/temp1624_split_7_002.png "祢")![alt text](a/1_019.png "邨")|7962||
-|20|𥘯|![alt text](fig/temp1624_split_8_001.png "𥘯")![alt text](a/1_020.png "邨")|2562F||
+|20|祙|![alt text](fig/temp1624_split_8_001.png "𥘯")![alt text](a/1_020.png "邨")|889C||
 |21|栢|![alt text](fig/temp1624_split_8_002.png "栢")![alt text](a/1_021.png "邨")|6822||
 |22|𪸜|![alt text](fig/temp1624_split_9_001.png "𪸜")![alt text](a/1_022.png "邨")|2AE1C||
 |23|孭|![alt text](fig/temp1624_split_9_002.png "孭")![alt text](a/1_023.png "邨")|5B6D||
